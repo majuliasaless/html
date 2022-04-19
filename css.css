@@ -1,0 +1,29 @@
+#idUm {
+    font-family: arial;
+     color: red;
+
+
+  }
+  #idDois {
+    font-family: times; 
+    font-size: 22pt;
+    color:green;
+ 
+ 
+  }
+  #idTres {
+    font-family:Comic Sans- Serif;
+    font-size: 20pt;
+    color: blue;
+    font-style: italic
+    
+  }
+  #idQuatro {
+   font-family: verdana;
+   font-size: 14pt;
+   font-variant: normal medium;
+   color: yellow;
+
+
+
+  }
